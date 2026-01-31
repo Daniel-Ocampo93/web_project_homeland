@@ -12,7 +12,7 @@ Este proyecto presenta una página web sobre diferentes lugares del mundo donde 
 - Metodología BEM
 
 ## Enlace al proyecto
-[Ver proyecto en GitHub Pages](https://daniel-ocampo93.github.io/web_project_homeland/)
+https://daniel-ocampo93.github.io/web_project_homeland/
 
 ## Funcionalidades
 - Diseño responsivo que se adapta a diferentes tamaños de pantalla (320px, 768px, 1280px)
